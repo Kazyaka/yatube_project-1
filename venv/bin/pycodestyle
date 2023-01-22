@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/iphone/Рабочий стол/Dev/yatube_project-/venv/bin/python" "$0" "$@"
-' '''
+#!/home/iphone/Dev/yatube_project/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
